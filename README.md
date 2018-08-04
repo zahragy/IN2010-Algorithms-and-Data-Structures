@@ -22,3 +22,5 @@ Programming subject which combines practical programming in Java with a deeper t
 
 4. Be able to detect and specify the effectiveness of a program, and you will be able to estimate the running time of a given program with datasets of different sizes. 
 
+### Chapter 1
+A
