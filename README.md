@@ -23,4 +23,5 @@ Programming subject which combines practical programming in Java with a deeper t
 4. Be able to detect and specify the effectiveness of a program, and you will be able to estimate the running time of a given program with datasets of different sizes. 
 
 ### Chapter 1
-A
+#### Design of Scalable Algorithms and Data Structures
+Being able to achieve scalability for a computer system can mean the difference between technological solution that can succeed in the marketplace or scientific application and one that becomes effectively unusable as data volumes increase.
