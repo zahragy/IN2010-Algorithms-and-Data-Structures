@@ -29,4 +29,6 @@ Being able to achieve scalability for a computer system can mean the difference 
 An **algorithms** is a step-by-step procedure for perfoming some task in a finite amount of time, and a **data structure** is a systematic way of organizing and accessing data. To be able to determine scalability, we must have precise ways of analyzing them. The primary analysis tool we use in this book is to characterize the **running time** of an algorithm or data structure operation, with **space usage** also being of interest.
 
 #### Chapter 1.1 Analyzing Algorithms
-We are interested in determining the depedency of the running time on the size of input. To determine this, we experiment with differet test inputs of various sisez. 
+We are interested in determining the depedency of the running time on the size of input. To determine this, we experiment with differet test inputs of various sizes. In general, the running time of an algorithm or data structure increases with the input size, as well as by the hardware environment (processor, clock rate, memory, disk etc.) and software environment (operating system, programming language, compiler, interpreter, etc.) in which the algorithm is implemented, compiled and executed.
+Run time of the same algorithm on same data input will be smaller if the computer ie. has a faster processor or if the implementation is done in a program compiled into native machine code instead of a interpreted implementation on a virtual machine.
+
