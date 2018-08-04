@@ -2,12 +2,12 @@
 Algorithms and Data Structures
 Programming subject which combines practical programming in Java with a deeper theoretical understanding.
 
-Themes
+##Themes
 1. Graph Theory
 2. Sorting Algorithms
 3. O-notation
 
-Learning Objectives
+##Learning Objectives
 1. Learning Datastructures such as
   - Lists
   - Trees
